@@ -1,16 +1,105 @@
-## Hi there 👋
+# 👩🏻‍💻 Jean Costa
 
-<!--
-**Jean090504/Jean090504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou cursando faculdade de banco de dados na Cruzeiro do Sul, e curso no SENAI de Jandira Desenvolvimento de Sistemas. Estou em busca do meu primeiro emprego na área de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.linkedin.com/in/jean-costa-834aa9250/">
+        <img 
+            alt="Linkedin Jean Costa" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/Perfil-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+</a>   
+<a href="https://www.instagram.com/jeancosta04/">
+        <img 
+            alt="instagram views" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+</a> 
+<a href="https://github.com/jean090504?tab=repositories" target="_blank">
+  <img 
+    alt="Repositórios" 
+    title="Total de repositórios públicos no GitHub" 
+    src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jean090504&query=$.public_repos&label=Repositórios&style=for-the-badge&logo=github&logoColor=white&color=green"
+  />
+</a>
+ <a href="https://github.com/Jean090504?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Jean090504?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+ </a>
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Jean090504&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean090504&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+
