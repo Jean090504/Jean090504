@@ -23,7 +23,7 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
   <img 
     alt="Repositórios" 
     title="Total de repositórios públicos no GitHub" 
-    src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Jean090504&query=$.public_repos&label=Repositórios&style=for-the-badge&logo=github&logoColor=white&color=green"
+    src="https://img.shields.io/github/repos/Jean090504?style=for-the-badge&logo=github&logoColor=white&label=Repositórios&color=green"
   />
 </a>
  <a href="https://github.com/Jean090504?tab=followers">
