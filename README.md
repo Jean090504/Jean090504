@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jean Costa
+# 👨🏻‍💻 Jean Costa
 
 **`Desenvolvedor FullStack`**
 
@@ -101,5 +101,12 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean090504&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yurikomuta/yurikomuta/output/github-contribution-grid-snake.svg">
+</picture>
 
 
