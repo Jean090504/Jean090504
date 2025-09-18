@@ -83,7 +83,9 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 <br/>
 <br/>
 
---
+-- Estatisticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jean090504&layout=compact&theme=dark)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
