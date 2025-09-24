@@ -94,3 +94,12 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 
 
 ---
+
+<img align="right" src="" width="120" alt="Mestre Yoda" />
+
+> _"Ao infinito... e além! 🚀"_
+> — **Buzz Lightyear**
+
+<br>
+<br>
+<br>
