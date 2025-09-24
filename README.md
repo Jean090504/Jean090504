@@ -5,37 +5,18 @@
 Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou cursando faculdade de banco de dados na Cruzeiro do Sul, e curso no SENAI de Jandira Desenvolvimento de Sistemas. Estou em busca do meu primeiro emprego na área de programação.
 
 
-<a href="https://www.linkedin.com/in/jean-costa-834aa9250/">
-        <img 
-            alt="Linkedin Jean Costa" 
-            title="Linkedin" 
-            src="https://img.shields.io/badge/Perfil-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-</a>   
-<a href="https://www.instagram.com/jeancosta04/">
-        <img 
-            alt="instagram views" 
-            title="Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-</a> 
-<a href="https://github.com/jean090504?tab=repositories" target="_blank">
-  <img 
-    alt="Repositórios" 
-    title="Total de repositórios públicos no GitHub" 
-    src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJean090504&query=%24.public_repos&label=Reposit%C3%B3rios&style=for-the-badge&logo=github&logoColor=white&color=green"
-  />
-</a>
-<a href="https://github.com/jean090504?tab=followers" target="_blank">
-  <img 
-    alt="Seguidores" 
-    src="https://img.shields.io/github/followers/jean090504?style=for-the-badge&logo=github&label=Seguidores"
-  />
-</a>
-
-
-
 ---
+
+# 🌐 Socials:
+<br>
+ <div align="center">
+    <a href="https://www.instagram.com/jeancosta04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href = "mailto:jc090504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jeancostadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "132" target="_blank"></a> 
+  </div>
+<br>
+
+ ---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -96,5 +77,16 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jean090504/jean090504/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+ # 🎵 Músicas recem tocadas:
+ 
+<br>
+<div align="center">
+  <a href="https://open.spotify.com/user/31rz7qie6uq7lahdywkkpnegofsm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rz7qie6uq7lahdywkkpnegofsm&count=2&unique=false" alt="Músicas recém tocadas." width="500"/>
+  </a>
+</div>
 
 ---
