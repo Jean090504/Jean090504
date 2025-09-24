@@ -71,13 +71,11 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 
 ---
 
-<img src="./img/buzz.webp" width="120" align="right" alt="Buzz Lightyear" style="position: relative; z-index: 1; margin-top:8px" />
-
+<img src="./img/buzz.webp" width="120" align="right" alt="Buzz Lightyear" style="position: relative; z-index: 1;" />
 
 
 > _"Ao infinito... e além!"_  
 > — **Buzz Lightyear**
-> --------
 
 <br>
 <br>
