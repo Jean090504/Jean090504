@@ -85,8 +85,12 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/31rz7qie6uq7lahdywkkpnegofsm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rz7qie6uq7lahdywkkpnegofsm&count=2&unique=false" alt="Músicas recém tocadas."/>
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=31rz7qie6uq7lahdywkkpnegofsm&count=3&unique=false" 
+      alt="Músicas recém tocadas." 
+      width="600"/>
   </a>
 </div>
+
 
 ---
