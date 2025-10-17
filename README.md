@@ -51,7 +51,7 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jean090504/Jean090504/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jean090504/jean090504/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
