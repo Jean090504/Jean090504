@@ -2,10 +2,17 @@
 
 **`Desenvolvedor FullStack`**
 
-Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou cursando faculdade de banco de dados na Cruzeiro do Sul, e curso no SENAI de Jandira Desenvolvimento de Sistemas. Estou em busca do meu primeiro emprego na área de programação.
+Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou cursando no SENAI de Jandira Desenvolvimento de Sistemas. Estou em busca do meu primeiro emprego na área de programação.
 
+**Formado em Banco de Dados - 2026**
 
 ---
+<div align="center">
+  <img src="./img/dog.png" alt="Cachorro astronauta em uma nave espacial com o texto 'FOUND SUN'" width="600" />
+</div>
+
+---
+
 
 # 🌐 Socials:
 <br>
@@ -19,21 +26,27 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
  ---
 
 ### 🤖 Linguagens e Tecnologias
- <div align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JS logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Nodejs logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
+  <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white" />
+ 
 </div>
   
 
@@ -41,11 +54,7 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 <br/>
 
 ---
-
-### 📊 Estatísticas
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jean090504&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean090504&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-
+### 📊 Commits
 ---
 
 <picture>
