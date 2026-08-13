@@ -25,7 +25,7 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
 
  ---
 
-### 🤖 Linguagens e Tecnologias
+**### 🤖 Linguagens e Tecnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img width="15" />
@@ -47,7 +47,7 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
   <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white" />
  
-</div>
+</div>**
   
 
 <br/>
@@ -62,21 +62,6 @@ Me Chamo Jean Costa, tenho 21 anos e sou natural de Itapevi SP. Atualmente estou
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jean090504/jean090504/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
- # 🎵 Músicas recem tocadas:
- 
-<br>
-<div align="center">
-  <a href="https://open.spotify.com/user/31rz7qie6uq7lahdywkkpnegofsm">
-    <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=31rz7qie6uq7lahdywkkpnegofsm&count=3&unique=false" 
-      alt="Músicas recém tocadas." 
-      width="600"/>
-  </a>
-</div>
-
 
 ---
 
